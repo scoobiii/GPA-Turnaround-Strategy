@@ -145,7 +145,7 @@ const players = {
                     <h3 className="font-bold text-xl mb-4 text-red-300">🔥 A Vantagem Competitiva Brutal</h3>
                     <p className="mb-4">A combinação de um ecossistema completo (restaurantes, mercado, farmácia, fintech, ads) com um modelo de negócio asset-light e cultura tech-first cria um fosso competitivo quase intransponível.</p>
                      <ul className="list-decimal list-inside space-y-2 pl-2 text-slate-300">
-                        <li><strong>Plataforma > Produto:</strong> O efeito de rede (mais clientes atraem mais parceiros, que atraem mais clientes) é o maior ativo.</li>
+                        <li><strong>Plataforma &gt; Produto:</strong> O efeito de rede (mais clientes atraem mais parceiros, que atraem mais clientes) é o maior ativo.</li>
                         <li><strong>Asset-Light Escala Rápido:</strong> Usar a "gig economy" e parceiros permite uma expansão massiva com baixo investimento de capital (CapEx).</li>
                          <li><strong>Dados como Petróleo:</strong> O iFood usa IA para tudo: otimizar rotas, decidir sortimento de cada dark store e personalizar ofertas, criando um ciclo de melhoria contínua.</li>
                     </ul>
